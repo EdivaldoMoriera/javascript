@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(142, 100, 122, 0.466);
+}
+main{
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;    
+
+}
+main > h1 > a{
+    text-decoration: none;
+    font-size: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-style: italic;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+main:hover{
+    background-image: linear-gradient(to bottom, green, yellow);
+}
