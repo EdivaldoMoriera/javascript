@@ -1,4 +1,4 @@
 # javascript
-#<a href="#" onclick="aluno()">clique</a>
+#<a href="https://www.youtube.com/">globo.com</a>
 www.globo.com
  
