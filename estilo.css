@@ -22,5 +22,5 @@ a:hover{
     color: red;
 }
 main:hover{
-    background-image: linear-gradient(to bottom, green, yellow);
+    background-image: linear-gradient(to bottom, green, rgba(80, 162, 189, 0.582));
 }
