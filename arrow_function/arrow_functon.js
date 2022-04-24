@@ -5,8 +5,18 @@ console.log(multiplicador())
 let multiplicador = (n, p) =>{
     return n*p
 }
-console.log(multiplicador(2,3))*/
+console.log(multiplicador(2,3))
 let multiplicador = n =>{
     return n*n
 }
-console.log(multiplicador(2))//arrow function
+console.log(multiplicador(2))//arrow function*/
+let parOuImpar = function(n){
+    if(n%2 ==0){
+
+    return 'par'
+}
+else{
+    return 'impar'
+}
+}
+console.log(parOuImpar(1))
