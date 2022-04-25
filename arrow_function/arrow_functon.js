@@ -29,4 +29,4 @@ function parOuImpar(n1){
         return 'impar'
     }
 }
-console.log(parOuImpar(2))
+console.log(parOuImpar(41))
